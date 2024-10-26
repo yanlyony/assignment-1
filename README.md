@@ -1,4 +1,4 @@
-# assignment-1
+# WAKU
 
 This is about how to set up waku
 
