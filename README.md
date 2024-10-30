@@ -1,4 +1,4 @@
-# WAKU()
+# WAKU(install)
 
 This is about how to set up waku
 #
