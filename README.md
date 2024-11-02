@@ -52,3 +52,5 @@ docker-compose logs -f nwaku
 ## monitor
 
 Visit http://localhost:3000/d/yns_4vFVk/nwaku-monitoring to view your node metrics in real time.
+
+END
