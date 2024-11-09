@@ -49,6 +49,8 @@ docker-compose up -d
 View the logs of the node to confirm that it is running correctly:
 
 ```bash
+
+
 docker-compose logs -f nwaku
 ```
 
