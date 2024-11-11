@@ -5,9 +5,8 @@ This is about how to set up waku
 #
 
 
+
 ## clone
-
-
 
 bash
 git clone https://github.com/waku-org/nwaku-compose
