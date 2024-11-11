@@ -9,7 +9,6 @@ This is about how to set up waku
 
 
 
-
 bash
 git clone https://github.com/waku-org/nwaku-compose
 cd nwaku-compose
