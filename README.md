@@ -5,7 +5,6 @@ This is about how to set up waku
 #
 
 
-
 ## clone
 
 bash
