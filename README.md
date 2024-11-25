@@ -10,7 +10,6 @@ gitclone https://github.com/waku-org/nwaku-compose
 cd nwaku-compose
 ```
 
-
 ## set up
 
 Docker Compose [reads the .env file](https://docs.docker.com/compose/environment-variables/set-environment-variables/#additional-information-3) from the filesystem. You can use `.env.example` as a template to provide the configuration values. The recommended process for working with `.env` files is to duplicate `.env.example`, rename it as `.env`, and then make the necessary value edits.
