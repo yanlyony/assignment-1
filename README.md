@@ -41,8 +41,7 @@ Launch all the processes: `nwaku` node, database for storing messages, and Gra
 docker-compose up -d
 ```
 
-View the logs of the node to confirm that it is running correctly:
-
+View the logs of the node to confirm that it is running correctly
 ```bash
 
 
